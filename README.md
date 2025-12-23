@@ -186,35 +186,6 @@ nltk.download('punkt')
    - Review all questions with correct answers
    - Click "Take Another Quiz" to restart
 
-## 📁 Project Structure
-
-```
-ai-quiz-generator/
-│
-├── app.py                      # Main Flask application
-├── requirements.txt            # Python dependencies
-├── README.md                   # Project documentation
-│
-├── templates/
-│   └── index.html             # Quiz interface template
-│
-├── static/
-│   ├── css/
-│   │   └── styles.css         # Custom styles (optional)
-│   └── js/
-│       └── quiz.js            # Quiz logic (optional)
-│
-├── models/
-│   ├── t5_model/              # T5 model files
-│   └── bert_model/            # BERT model files
-│
-├── data/
-│   └── dataset.csv            # Quiz dataset
-│
-└── notebooks/
-    └── Quiz_Generator.ipynb   # Colab notebook version
-```
-
 ## 🛠️ Technologies Used
 
 ### Backend

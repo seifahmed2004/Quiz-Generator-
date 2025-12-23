@@ -332,15 +332,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
+Your Name : Seif Ahmed - your.email : seifahmedafifi@gmail.com
 
-Project Link: [https://github.com/yourusername/ai-quiz-generator](https://github.com/yourusername/ai-quiz-generator)
+Project Link: [https://github.com/seifahmed2004/Quiz-Generator](https://github.com/yourusername/ai-quiz-generator)
 
 ## 📊 Performance Metrics
 
 - **Question Generation Time**: ~2-5 seconds per question
 - **Answer Prediction Time**: ~1-2 seconds per answer
-- **BLEU Score Range**: 0.0 - 1.0 (higher is better)
 - **Typical Confidence**: 0.3 - 0.9 (BERT answer confidence)
 
 ## 🎯 Future Enhancements
